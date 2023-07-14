@@ -1,4 +1,3 @@
-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
 #include <stdio.h>
 /**
  * main - Entry point
