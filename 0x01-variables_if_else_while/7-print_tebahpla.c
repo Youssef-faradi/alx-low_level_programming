@@ -6,8 +6,8 @@
  */
 int main(void)
 {
-int i;
-while (i >= 'a')
+int i=122;
+while (i >= 97)
 {
 	putchar(i);
 	i--;
